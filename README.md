@@ -19,3 +19,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Used
 `npm install bootstrap@5.2.0`
+`npm install react-router-dom@6`

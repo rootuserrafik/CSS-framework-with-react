@@ -1,0 +1,12 @@
+form.DocSearch-Form {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 0px 10px;
+}
+
+.DocSearch-Input {
+    border: 0;
+    outline: none;
+}
